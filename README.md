@@ -40,9 +40,9 @@ body { background-color: #ccffcc; }
 <img src="https://torokoid.github.io/mahoroba/440.JPG" alt="" width="318" height="229" border="0" />
 <img src="https://torokoid.github.io/mahoroba/446.JPG" alt="" width="318" height="229" border="0" />
 <img src="https://torokoid.github.io/mahoroba/460.JPG" alt="" width="318" height="229" border="0" /><br/>
-<section>
- <a href="http://opa.cig2.imagegateway.net/s/m/CiJ2XMTa3WA">ス～さんの記録、PassWD:4321</a>
-       </section>
+<br><section>
+ <a href="http://opa.cig2.imagegateway.net/s/m/CiJ2XMTa3WA" target="_blank">ス～さんの記録、PassWD:4321</a>
+       </section><br>
 
 <!-- フッタ -->
  <footer>
