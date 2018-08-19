@@ -34,12 +34,12 @@ body { background-color: #ccffcc; }
 <h1><span class="red"><marquee behavior="alternate">!!! まほろばの湯 !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <h3>2014年の記録</h3>
-<a href="/mahoroba/180.JPG" class="preview"><img src="/mahoroba/180.JPG" alt="河原でのバーベキュー" width="180" /></a>
-<a href="/mahoroba/181.JPG" class="preview"><img src="/mahoroba/181.JPG" alt="河原でのバーベキュー" width="180" /></a>
-<a href="/mahoroba/204.JPG" class="preview"><img src="/mahoroba/204.JPG" alt="河原でのバーベキュー" width="180" /></a>
-<a href="/mahoroba/440.JPG" class="preview"><img src="/mahoroba/440.JPG" alt="河原でのバーベキュー" width="180" /></a>
-<a href="/mahoroba/446.JPG" class="preview"><img src="/mahoroba/446.JPG" alt="河原でのバーベキュー" width="180" /></a>
-<a href="/mahoroba/460.JPG" class="preview"><img src="/mahoroba/460.JPG" alt="河原でのバーベキュー" width="180" /></a>
+<a href="/mahoroba/180.JPG" class="preview"><img src="/mahoroba/180.JPG" alt="河原でのバーベキュー" width="450" /></a>
+<a href="/mahoroba/181.JPG" class="preview"><img src="/mahoroba/181.JPG" alt="河原でのバーベキュー" width="450" /></a>
+<a href="/mahoroba/204.JPG" class="preview"><img src="/mahoroba/204.JPG" alt="河原でのバーベキュー" width="450" /></a>
+<a href="/mahoroba/440.JPG" class="preview"><img src="/mahoroba/440.JPG" alt="河原でのバーベキュー" width="450" /></a>
+<a href="/mahoroba/446.JPG" class="preview"><img src="/mahoroba/446.JPG" alt="河原でのバーベキュー" width="450" /></a>
+<a href="/mahoroba/460.JPG" class="preview"><img src="/mahoroba/460.JPG" alt="河原でのバーベキュー" width="450" /></a>
 
 <!--
 <img src="https://torokoid.github.io/mahoroba/180.JPG" alt="河原でのバーベキュー" width="318" height="229" border="0" />
